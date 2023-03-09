@@ -70,3 +70,5 @@ ex:
 basta pesquisar na internet os tipos de emogi
 
 [Nesse link mostra um repositorio com todos os emogis](https://github.com/hideraldus13/github-emoji)
+
+
